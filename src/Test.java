@@ -8,5 +8,6 @@
 public class Test {
     public static void main(String[] ares){
         System.out.println("test");
+        System.out.println("Hello");
     }
 }
